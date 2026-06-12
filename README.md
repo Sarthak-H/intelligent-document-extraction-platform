@@ -115,16 +115,4 @@ Manually reading and entering information from documents is time-consuming and e
 * Flask Web Development
 * JSON Processing
 
----
-
-## Future Enhancements
-
-* PostgreSQL Integration
-* PDF Support
-* Document Classification
-* User Authentication
-* Export to Excel/PDF
-* Cloud Deployment
-
----
 
