@@ -128,8 +128,3 @@ Manually reading and entering information from documents is time-consuming and e
 
 ---
 
-## Author
-
-**Sarthak Hole**
-
-B.Tech (Information Technology)
